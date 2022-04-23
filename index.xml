@@ -5,6 +5,25 @@
     <link>https://nick-san.github.io/carve/</link>
     <description>Recent content on Future University Car Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nick-san.github.io/carve/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Apr 2022 04:10:33 +0900</lastBuildDate><atom:link href="https://nick-san.github.io/carve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://nick-san.github.io/carve/2022/04/hello/</link>
+      <pubDate>Sun, 24 Apr 2022 04:10:33 +0900</pubDate>
+      
+      <guid>https://nick-san.github.io/carve/2022/04/hello/</guid>
+      <description>はじめまして、ごぶさたどうも 公立はこだて未来大学 自動車部のにっくです。 これからこのページは、弊部の活動や日記、さまざまなコンテンツの公開に使っていきたいとおもいます。 よろしくおねがいいたします。</description>
+    </item>
+    
+    <item>
+      <title>Testdayon</title>
+      <link>https://nick-san.github.io/carve/2022/04/testdayon/</link>
+      <pubDate>Sun, 24 Apr 2022 03:50:40 +0900</pubDate>
+      
+      <guid>https://nick-san.github.io/carve/2022/04/testdayon/</guid>
+      <description>テストとうこうだよーん</description>
+    </item>
+    
   </channel>
 </rss>
