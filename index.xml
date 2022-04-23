@@ -5,25 +5,6 @@
     <link>https://nick-san.github.io/carve/</link>
     <description>Recent content on Future University Car Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 24 Apr 2022 03:50:40 +0900</lastBuildDate><atom:link href="https://nick-san.github.io/carve/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Testdayon</title>
-      <link>https://nick-san.github.io/carve/2022/04/testdayon/</link>
-      <pubDate>Sun, 24 Apr 2022 03:50:40 +0900</pubDate>
-      
-      <guid>https://nick-san.github.io/carve/2022/04/testdayon/</guid>
-      <description>テストとうこうだよーん</description>
-    </item>
-    
-    <item>
-      <title>日本語テスト</title>
-      <link>https://nick-san.github.io/carve/2013/01/japanese-test/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://nick-san.github.io/carve/2013/01/japanese-test/</guid>
-      <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://nick-san.github.io/carve/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

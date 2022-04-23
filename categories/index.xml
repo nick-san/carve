@@ -5,25 +5,6 @@
     <link>https://nick-san.github.io/carve/categories/</link>
     <description>Recent content in Categories on Future University Car Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://nick-san.github.io/carve/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>features</title>
-      <link>https://nick-san.github.io/carve/categories/features/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://nick-san.github.io/carve/categories/features/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tranquilpeak</title>
-      <link>https://nick-san.github.io/carve/categories/tranquilpeak/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://nick-san.github.io/carve/categories/tranquilpeak/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://nick-san.github.io/carve/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
