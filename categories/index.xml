@@ -1,45 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo tranquilpeak theme</title>
+    <title>Categories on Future University Car Club</title>
     <link>https://nick-san.github.io/carve/categories/</link>
-    <description>Recent content in Categories on Hugo tranquilpeak theme</description>
+    <description>Recent content in Categories on Future University Car Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://nick-san.github.io/carve/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://nick-san.github.io/carve/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>releases</title>
-      <link>https://nick-san.github.io/carve/categories/releases/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>features</title>
+      <link>https://nick-san.github.io/carve/categories/features/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://nick-san.github.io/carve/categories/releases/</guid>
+      <guid>https://nick-san.github.io/carve/categories/features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tranquilpeak</title>
       <link>https://nick-san.github.io/carve/categories/tranquilpeak/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://nick-san.github.io/carve/categories/tranquilpeak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>showcase</title>
-      <link>https://nick-san.github.io/carve/categories/showcase/</link>
-      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://nick-san.github.io/carve/categories/showcase/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>features</title>
-      <link>https://nick-san.github.io/carve/categories/features/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://nick-san.github.io/carve/categories/features/</guid>
       <description></description>
     </item>
     
