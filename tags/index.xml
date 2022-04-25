@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Future University Car Club</title>
-    <link>https://nick-san.github.io/carve/tags/</link>
+    <link>https://carve.miraidai.fun/tags/</link>
     <description>Recent content in Tags on Future University Car Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nick-san.github.io/carve/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://carve.miraidai.fun/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
